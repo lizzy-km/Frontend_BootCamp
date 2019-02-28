@@ -127,4 +127,4 @@ GO WILD! There are so many components in the Fabric library! Try to put some com
 
 - Importing components from `office-ui-fabric-react`
 - Customizing component with props found on the documentation site
-- Customize component with render props (these will be called onRender___ or similar)
+- Customize component with render props (these will be called onRender\_\_\_ or similar)

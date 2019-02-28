@@ -15,7 +15,7 @@
     "start": "run-p start:server start:client",
     "static": "live-server --host=localhost",
     "deploy-ghpages": "git push origin :gh-pages && git subtree push --prefix docs origin gh-pages",
-    "prettier": "prettier \"**/*.{json,md,yaml,yml}\"",
+    "prettier": "prettier \"**/*.{json,md,html,js,ts,tsx,yaml,yml}\"",
     "lint": "npm run prettier -- --list-different",
     "format": "npm run prettier -- --write"
   },

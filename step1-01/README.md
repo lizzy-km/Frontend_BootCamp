@@ -2,7 +2,7 @@
 
 A simple web page is rendered on the screen via the following steps.
 
-*There are many sub-steps in this process, but these are the highlights.*
+_There are many sub-steps in this process, but these are the highlights._
 
 1. You instruct the browser which web page you'd like to see
 2. The browser looks up the site in a "DNS Server"
@@ -20,7 +20,6 @@ A simple web page is rendered on the screen via the following steps.
 7. Once the browser gets to the bottom of the page it can start working on rendering, and then display the page
 
 ![MDN Page Load](https://user-images.githubusercontent.com/1434956/53033758-9da8d580-3426-11e9-9ab8-09f42ccab9a8.png)
-
 
 ## Next Step
 

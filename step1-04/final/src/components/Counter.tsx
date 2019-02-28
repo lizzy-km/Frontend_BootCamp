@@ -20,6 +20,6 @@ export class Counter extends React.Component<any, any> {
   }
 
   _onButtonClick = () => {
-    this.setState((state) => ({ counter: state.counter + 1 }));
+    this.setState(state => ({ counter: state.counter + 1 }));
   };
 }

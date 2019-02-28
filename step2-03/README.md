@@ -2,7 +2,7 @@
 
 [Lessons](../) | [Exercise](./exercise/) | [Demo](./demo/)
 
-Theming and Styling with UI Fabric. In this section, we will illustrate how to utilize some of the built-in theming and styling features right inside UI Fabric component library. 
+Theming and Styling with UI Fabric. In this section, we will illustrate how to utilize some of the built-in theming and styling features right inside UI Fabric component library.
 
 For advanced or non-Fabric component scenarios, UI Fabric also exposes its own CSS-in-JS library called `mergeStyles` that is very performant compared with other similar libraries. A CodePen that illustrates what `mergeStyles` does: https://codepen.io/dzearing/pen/jGdgrE?editors=1011
 
@@ -16,6 +16,7 @@ These are the areas that we will focus on in this step:
 ## Fabric Theming and Styling
 
 ### 1. Applying Fabric Themes
+
 - Fabric applies themes by propagating the theme down the children through the React Context mechanism
 - It is applied with the `<Customizer>` component
 - There are some predefined themes within Fabric already, like Fluent (which will become the default in the next major), MDL2, Azure, and some other sample themes like Teams.
@@ -138,4 +139,3 @@ const className = mergeStyles({
 ```
 
 2. Try to give a few components extra padding
-

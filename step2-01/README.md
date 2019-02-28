@@ -26,7 +26,7 @@ The most important ones to know about are:
   - statically analyzable and synchronous
   - dynamic and asynchronous support via `import()` that returns a promise
 
-> For more information about the *many* modularity patterns and standards developed over time, see [this article](https://medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc). You may still encounter some of the older patterns in legacy code.
+> For more information about the _many_ modularity patterns and standards developed over time, see [this article](https://medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc). You may still encounter some of the older patterns in legacy code.
 
 ## TypeScript Types
 
